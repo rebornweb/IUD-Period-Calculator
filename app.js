@@ -1,10 +1,3 @@
-//: \\srv-web-dev\e$\Web\IUDCalc
-//Module Rules and controller
-//var comp = angular.module('app', []);
-// https://www.codeproject.com/Articles/862602/Define-Multiple-Angular-Apps-In-One-Page
-//!!Your going to have to redo the hide and show on the condition hours!!
-//Round up or Down
-//https://stackoverflow.com/questions/17691202/round-up-round-down-a-momentjs-moment-to-nearest-minute
 
 //secondApp gets injected into rootApp <body ng-app='rootApp'> scope
 
